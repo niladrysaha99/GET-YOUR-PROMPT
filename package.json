@@ -1,21 +1,9 @@
 {
-  "name": "files",
+  "name": "get-your-prompt",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "private": true,
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Niladry/get-your-prompt.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "commonjs",
-  "bugs": {
-    "url": "https://github.com/Niladry/get-your-prompt/issues"
-  },
-  "homepage": "https://github.com/Niladry/get-your-prompt#readme"
+    "build": "echo build",
+    "dev": "echo dev"
+  }
 }
